@@ -1,0 +1,13 @@
+{
+    "name": "vanilla-todo",
+    "version": "0.0.1",
+    "title": "Vanilla Todo List",
+    "description": "Create a very simple todo list.",
+    "difficultyModes": [
+        "Normal",
+        "Hard"
+    ],
+    "keywords": [
+        "JavaScript"
+    ]
+}
