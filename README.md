@@ -29,12 +29,12 @@ After completing this assignment, you be able to effectively use
 ### Deliverables
 
 * A repo containing at least:
-  * `dist/main.js`
-  * `dist/index.html`
+  * `scripts/main.js`
+  * `index.html`
 
 ### Requirements
 
-* No JSHint warnings or errors
+* No ESLint warnings or errors
 * No W3C validation errors
 
 
