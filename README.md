@@ -19,9 +19,9 @@ After completing this assignment, you should…
 
 After completing this assignment, you be able to effectively use
 
-* innerHTML
-* createElement
-* addEventListener
+* element.innerHTML
+* document.addEventListener
+* element.value
 
 
 ## Details
